@@ -7,5 +7,8 @@ public class Patice2 {
 		int y = 1000;
 		int z = x*y;
 		System.out.println(z);
+		
+		int w = y%x;
+		System.out.println(w);
 	}
 }
